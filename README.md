@@ -1,6 +1,6 @@
 # Sqli-Ceker
-# vulnCeker
-```
+
+`` `
 Inyour@G00D-PC ~/PycharmProjects/Sqli-Checker $ python2 vulnCeker.py list.txt
 ###################################################
 (\_____/)Sqli Vuln Checker

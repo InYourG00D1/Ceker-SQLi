@@ -46,7 +46,7 @@ def banner():
 (\_____/)Sqli Vuln Checker
  (=°~°~) by:InYourG00DfeatSULTAN
 (")___(")TEAM:S.T.C-LNX#CREW-BUFT
-How To Use: \n \t python2 vulnCeker.py list.txt
+How To Use: \n \t python2 vulnCeker.py list
 {}""".format("#"*50, "#"*50)
     return banner
 

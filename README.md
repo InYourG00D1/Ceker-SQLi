@@ -1,9 +1,9 @@
 # Sqli-Ceker
-# vulnCeker
-```
-Inyour@G00D-PC ~/PycharmProjects/Sqli-Checker $ python2 vulnCeker.py list.txt
-###################################################
-(\_____/)Sqli Vuln Checker
+
+`` `
+Inyour @ G00D-PC ~ / PycharmProjects / Sqli-Checker $ python2 vulnCeker.py list.txt
+############################################### #
+(\ _____ /) Sqli Vuln Checker
  (=°~°~) by:InYourG00DfeatSULTAN
 (")___(")TEAM:S.T.C-LNX#CREW-BUFT
 How To Use: \n \t python2 vulnCeker.py list

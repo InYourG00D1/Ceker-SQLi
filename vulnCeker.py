@@ -1,6 +1,7 @@
 #!/usr/bin/env python2
 #-*- coding: utf-8 -*-
 __author__ = '-={InYourG00D feat Sultan}=-'
+//https://ajuan-jkt.siap-ppdb.com/jakarta/akun-index/akun-print?jenjang=smk&id=705021001743&token=982588
 
 import requests, sys
 
